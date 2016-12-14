@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contacts List</string>
+    <string name="str_call">Call</string>
+    <string name="str_sms">Send SMS</string>
 </resources>

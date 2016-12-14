@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_call"
+        android:title="@string/str_call"/>
+    <item
+        android:id="@+id/id_sms"
+        android:title="@string/str_sms"/>
+</menu>
